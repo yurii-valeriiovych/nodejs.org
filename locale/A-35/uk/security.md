@@ -5,7 +5,7 @@ title: Безпека
 
 # Безпека
 
-## Повідомлення про помилку в Node.js
+## Reporting a new Bug in Node.js
 
 Повідомити про помилки безпеки в Node.js через [HackerOne](https://hackerone.com/nodejs).
 
