@@ -5,7 +5,7 @@ title: Security
 
 # Security
 
-## Reporting a Bug in Node.js
+## Reporting a new Bug in Node.js
 
 Report security bugs in Node.js via [HackerOne](https://hackerone.com/nodejs).
 
