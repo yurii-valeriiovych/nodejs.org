@@ -3,98 +3,98 @@
   "author": "Node.js",
   "url": "https://nodejs.org/en/",
   "locale": "en",
-  "language": "English",
-  "languageEnglishVersion": "English",
-  "scrollToTop": "Scroll to top",
-  "reportNodeIssue": "Report Node.js issue",
-  "reportWebsiteIssue": "Report website issue",
-  "getHelpIssue": "Get Help",
-  "by": "by",
-  "all-downloads": "All download options",
-  "nightly": "Nightly builds",
-  "unofficial-builds": "Unofficial builds",
-  "previous": "Previous",
-  "next": "Next",
+  "language": "Українська",
+  "languageEnglishVersion": "Українська",
+  "scrollToTop": "Прокрутити вгору",
+  "reportNodeIssue": "Повідомити про проблему Node.js",
+  "reportWebsiteIssue": "Повідомити про проблему сайту",
+  "getHelpIssue": "Допомога",
+  "by": "за",
+  "all-downloads": "Всі параметри завантаження",
+  "nightly": "Нічні збірки",
+  "unofficial-builds": "Неофіційні збірки",
+  "previous": "Попереднє",
+  "next": "Уперед",
   "feeds": [
     {
-      "link": "feed/blog.xml",
-      "text": "Node.js Blog"
+      "link": "постріл/blog.xml",
+      "text": "Блог Node.js"
     },
     {
-      "link": "feed/releases.xml",
-      "text": "Node.js Blog: Releases"
+      "link": "фіні/releases.xml",
+      "text": "Блог Node.js: Релізи"
     },
     {
-      "link": "feed/vulnerability.xml",
-      "text": "Node.js Blog: Vulnerability Reports"
+      "link": "стрічка/вразливість.xml",
+      "text": "Блог Node.js: Звіти про вразливості"
     }
   ],
   "home": {
-    "text": "Home"
+    "text": "Домашній екран"
   },
   "about": {
-    "link": "about",
-    "text": "About",
+    "link": "про себе",
+    "text": "Про програму",
     "governance": {
-      "link": "about/governance",
-      "text": "Governance"
+      "link": "about/управліня",
+      "text": "Урядування"
     },
     "community": {
-      "link": "about/community",
-      "text": "Community"
+      "link": "про/спільнота",
+      "text": "Спільнота"
     },
     "workinggroups": {
-      "link": "about/working-groups",
-      "text": "Working Groups"
+      "link": "about/робоча група",
+      "text": "Робочі групи"
     },
     "releases": {
-      "link": "about/releases",
-      "text": "Releases"
+      "link": "about/релізи",
+      "text": "Випуски"
     },
     "resources": {
-      "link": "about/resources",
-      "text": "Resources"
+      "link": "about/ресурсами",
+      "text": "Ресурси"
     },
     "trademark": {
       "link": "about/trademark",
-      "text": "Trademark"
+      "text": "Торгова марка"
     },
     "privacy": {
-      "link": "about/privacy",
-      "text": "Privacy Policy"
+      "link": "про/конфіденційність",
+      "text": "Політика конфіденційності"
     }
   },
   "download": {
-    "link": "download",
-    "text": "Downloads",
+    "link": "звантажити",
+    "text": "Завантажень",
     "releases": {
-      "link": "download/releases",
-      "text": "Previous Releases"
+      "link": "завантажити/релізи",
+      "text": "Попередні релізи"
     },
     "package-manager": {
-      "link": "download/package-manager",
-      "text": "Installing Node.js via package manager"
+      "link": "завантажити/package-manager",
+      "text": "Встановлення Node.js через менеджер пакетів"
     },
     "shasums": {
       "link": "SHASUMS256.txt.asc",
-      "text": "Signed SHASUMS for release files",
+      "text": "Підписані SHASUMS для випуск файлів",
       "verify-link": "https://github.com/nodejs/node#verifying-binaries",
-      "verify-text": "How to verify"
+      "verify-text": "Як перевірити"
     },
     "install-on-linux": {
-      "text": "Installing Node.js via binary archive"
+      "text": "Встановлення Node.js через бінарний архів"
     }
   },
   "docs": {
-    "link": "docs",
-    "text": "Docs",
+    "link": "документація",
+    "text": "Документація",
     "es6": {
       "link": "docs/es6",
-      "text": "ES6 and beyond"
+      "text": "ES6 і не вдасться"
     },
     "api-lts": {
       "link": "https://nodejs.org/dist/latest-%ver-major%/docs/api/",
-      "subtext": "LTS",
+      "subtext": "ТОВ",
       "text": "%ver% API"
     },
     "api-current": {
@@ -102,57 +102,57 @@
       "text": "%ver% API"
     },
     "guides": {
-      "link": "docs/guides",
-      "text": "Guides"
+      "link": "docs/посібники",
+      "text": "Посібники"
     },
     "dependencies": {
-      "link": "docs/meta/topics/dependencies",
-      "text": "Dependencies"
+      "link": "docs/meta/теми/залежності",
+      "text": "Залежності"
     }
   },
   "getinvolved": {
-    "link": "get-involved",
-    "text": "Get Involved",
+    "link": "взяти участь",
+    "text": "Долучитися",
     "code-and-learn": {
-      "link": "get-involved/code-and-learn",
-      "text": "Code + Learn"
+      "link": "отримати залучене/код та навчання",
+      "text": "Код + Навчання"
     },
     "collab-summit": {
-      "link": "get-involved/collab-summit",
-      "text": "Collab Summit"
+      "link": "отримувач/доторканний саміт",
+      "text": "Спільне саміт"
     },
     "contribute": {
-      "link": "get-involved/contribute",
-      "text": "Contribute"
+      "link": "отримано або свій внесок",
+      "text": "Зробити свій внесок"
     },
     "conduct": {
       "link": "https://github.com/nodejs/node/blob/master/doc/guides/contributing/code-of-conduct.md",
-      "text": "Code of Conduct"
+      "text": "Кодекс поведінки"
     },
     "node-meetups": {
-      "link": "get-involved/node-meetups",
-      "text": "Node.js Meetups"
+      "link": "get-участь/node-meetups",
+      "text": "Зустрічі Node.js"
     }
   },
   "security": {
-    "link": "security",
-    "text": "Security"
+    "link": "безпека",
+    "text": "Безпека"
   },
   "getcertified": {
     "link": "https://openjsf.org/certification",
-    "text": "Certification"
+    "text": "Сертифікація"
   },
   "blog": {
-    "link": "blog",
-    "text": "News"
+    "link": "блог",
+    "text": "Новини"
   },
   "releases": {
-    "title": "Release History",
-    "downloads": "Downloads"
+    "title": "Історія оновлень",
+    "downloads": "Завантажень"
   },
   "links": {
     "pages": {
-      "changelog": "Changelog"
+      "changelog": "Список змін"
     }
   }
 }
