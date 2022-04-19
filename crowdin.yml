@@ -1,5 +1,3 @@
 files:
   - source: /locale/en/security.md
     translation: added/%two_letters_code%/%file_name%
-  - source: /locale/en/security.md
-    translation: /locale/A-34-ingr/%two_letters_code%/%original_file_name%
