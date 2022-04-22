@@ -1,57 +1,57 @@
 ---
-title: Community Committee
-layout: about.hbs
+title: Комітет спільноти
+layout: about.hb
 ---
 
-# Community Committee
+# Комітет спільноти
 
-The Community Committee (CommComm) is a top-level committee in the Node.js Foundation. The CommComm has authority over outward-facing community outreach efforts, including:
+Комітет Спільнотства (Команди) є комітетом вищого рівня в Фонді Node.js. Коммон має повноваження щодо зовнішніх зусиль громади, в тому числі:
 
-* Community [Evangelism](https://github.com/nodejs/evangelism)
-* Education Initiatives
-* Cultural Direction of Node.js Foundation
-* Community Organization Outreach
-* Translation and Internationalization
-* Project Moderation/Mediation
-* Public Outreach and [Publications](https://medium.com/the-node-js-collection)
+* Спільнота [євангелізм](https://github.com/nodejs/evangelism)
+* Ініціативи освіти
+* Культурне спрямування фундаменту Node.js
+* Безкоштовна організація
+* Переклад і локалізація
+* Проект Модерація/Медіація
+* Публічний Outreach та [публікації](https://medium.com/the-node-js-collection)
 
-There are four types of involvement with the Community Committee:
+Існує чотири типи участі у Комітеті громади:
 
-* A **Contributor** is any individual creating or commenting on an issue or pull request.
-* A **Collaborator** is a contributor who has been given write access to the repository
-* An **Observer** is any individual who has requested or been requested to attend a CommComm meeting. It is also the first step to becoming a Member.
-* A **Member** is a collaborator with voting rights who has met the requirements of participation and voted in by the CommComm voting process.
+* **Співавтор** є індивідуальним твором або коментуванням на питання або pull request.
+* **Співавтор** є учасником, якому було надано доступ на запис до репозиторію
+* **Observer** є особою, яка запросила або попросила відвідати Comm зустріч. Це також перший крок, який став Матером.
+* **Член** є співрозмовником з правами голосування, який відповідає вимогам участі та голосував у процесі голосування Комімом.
 
-For the current list of Community Committee members, see the project's [README.md](https://github.com/nodejs/community-committee).
+Для членів Комітету за поточного списку дивляться на проект [README.md](https://github.com/nodejs/community-committee).
 
-## Contributors and Collaborators
+## Учасники та співавтори
 
-It is the mission of CommComm to further build out the Node.js Community. If you're reading this, you're already a part of that community – and as a part of the Node.js Community, we'd love to have your help!
+Це завдання CommComm для подальшого розбудови спільноти Node.js. Якщо ви читаєте це, ви вже є частиною цієї спільноти - і як частина Нд. s Community, ми хотіли б отримати вашу допомогу!
 
-The [nodejs/community-committee](https://github.com/nodejs/community-committee) GitHub repository is a great place to start. Check out the [issues labeled "Good first issue"](https://github.com/nodejs/community-committee/labels/good%20first%20issue) to see where we're looking for help. If you have your own ideas on how we can engage and build the community, feel free to open your own issues, create pull requests with improvements to our existing work, or help us by sharing your thoughts and ideas in the ongoing discussions we're having in GitHub.
+Вугілля [вузол/комітет](https://github.com/nodejs/community-committee) GitHub - це відмінне місце для початку. Check out the [issues labeled "Good first issue"](https://github.com/nodejs/community-committee/labels/good%20first%20issue) to see where we're looking for help. Якщо у вас є власні ідеї про те, як ми можемо взяти участь і побудувати спільноту, не соромтесь, щоб відкрити власні проблеми створювати запити на злиття з покращеннями в нашій існуючій роботі, або допоможіть нам, поділившись думками та ідеями в поточних дискусіях на GitHub.
 
-You can further participate in our ongoing efforts around community building - like localization, evangelism, the Node.js Collection, and others - by digging into their respective repositories and getting involved!
+Ви можете ще більше взяти участь у наших постійних зусиллях щодо побудови громади, як локалізація, євангелізм, "Ні". збірки s та інші - увійшовши в свої репозиторії та отримавши участь!
 
-Before diving in, please be sure to read the [Collaborator Guide](https://github.com/nodejs/community-committee/blob/master/governance/COLLABORATOR_GUIDE.md).
+Перед дайвінгом, будь ласка, не забудьте прочитати [Посібник співавторів](https://github.com/nodejs/community-committee/blob/master/governance/COLLABORATOR_GUIDE.md).
 
-If you're interested in participating in the Community Committee as a committee member, you should read the section below on **Observers and Membership**, and create an issue asking to be an Observer in our next Community Committee meeting. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142).
+Якщо ви зацікавлені у участі в Комітеті в якості члена комітету, ви повинні прочитати розділ нижче на **спостерігачів і належності**і створіть задачу з проханням бути спостерігачем на наступному засіданні Спільнотства. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142).
 
-## Observers and Membership
+## Спостерігачі та членство
 
-If you're interested in becoming more deeply involved with the Community Committee and its projects, we encourage you to become an active observer, and work toward achieving member status. To become a member you must:
+Якщо ви зацікавлені в тому, щоб стати більш глибоко залученими до Комітету і його проектів, ми закликаємо вас стати активним спостерігачем і працювати над досягненням статусу члена. Щоб стати членом якого ви повинні:
 
-1. Attend the bi-weekly meetings, investigate issues tagged as good first issue, file issues and pull requests, and provide insight via GitHub as a contributor or collaborator.
-2. Request to become an Observer by filing an issue. Once added as an Observer to meetings, we will track attendance and participation for 3 months, in accordance with our governance guidelines. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142).
-3. When you meet the 3 month minimum attendance, and participation expectations, the CommComm will vote to add you as a member.
+1. Відвідуйте щотижневі зустрічі, дослідіть проблеми з тегом як гарне перше питання, проблеми з файлом і запитами на злиття і надати фінансову статистику через GitHub як розробника або співробітника.
+2. Запит стати Об-сервером, встановивши проблему. Після додання в якості Обзера на зустрічі, ми будемо відстежувати відвідування та участь протягом 3 місяців, відповідно до наших рекомендацій щодо управління. You can find a great example of such an issue [here](https://github.com/nodejs/community-committee/issues/142).
+3. Коли ви зустрінете 3-місячний мінімальний відвідуваність та участь у очікуваннях, комкоммон проголосує за те, що ви додасте як учасник.
 
-Membership is for 6 months. The group will ask on a regular basis if the expiring members would like to stay on. A member just needs to reply to renew. There is no fixed size of the CommComm. However, the expected target is between 9 and 12. You can read more about membership, and other administrative details, in our [Governance Guide](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md).
+Членство триває 6 місяців. Ця група попросить регулярно запитати, якщо члени з обмеженим терміном хочуть залишитися на ньому. Учасник просто повинен відповісти на оновлення. Немає фіксованого розміру кома. Однак очікувана мета становить від 9 до 12. Про членство ви можете дізнатися більше про членство та інші адміністративні деталі, у нашому [керівництві управління](https://github.com/nodejs/community-committee/blob/master/GOVERNANCE.md).
 
-Regular CommComm meetings are held bi-monthly in a Zoom video conference, and broadcast live to the public on YouTube. Any community member or contributor can ask that something be added to the next meeting's agenda by logging a GitHub Issue.
+Постійні зустрічі ComComm проходять двомісячно в відеоконференції Zoom і транслюють своє життя на YouTube. Будь-який учасник спільноти або учасник можуть запитати, що щось буде додано до порядку денного наступної зустрічі, увійшовши в GitHub Issue.
 
-Meeting announcements and agendas are posted before the meeting begins in the organization's [GitHub issues](https://github.com/nodejs/community-committee/issues). You can also find the regularly scheduled meetings on the [Node.js Calendar](https://nodejs.org/calendar). To follow Node.js meeting livestreams on YouTube, subscribe to the Node.js Foundation [YouTube channel](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ). Be sure to click the bell to be notified of new videos!
+Оголошення зустрічі та порядок денний розміщуються перед початком зустрічі в [Проблеми організації](https://github.com/nodejs/community-committee/issues) з GitHub. Ви також можете знайти регулярні заплановані зустрічі на [Календарі Node.js](https://nodejs.org/calendar). Щоб слідкувати за життєвими процесами Node.js на YouTube, підпишіться на сайт Node.js Foundation [YouTube channel](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ). Не забудьте клацнути на дзвінок, щоб отримати сповіщення про нові відео!
 
-## Consensus Seeking Process
+## Шлях Пошуку Консенсусу
 
-The CommComm follows a [Consensus Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) decision making model.
+ComComm слідує [консенсус Шукає](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) модель прийняття рішень.
 
-When an agenda item has appeared to reach a consensus, the moderator will ask "Does anyone object?" as a final call for dissent from the consensus. If a consensus cannot be reached that has no objections then a majority wins vote is called. It is expected that the majority of decisions made by the CommComm are via a consensus seeking process and that voting is only used as a last-resort.
+Коли здавалося, що порядок денний досягне консенсусу, модератор запитає щось, що заперечує? як остаточний заклик до інакомислення від консенсусу. Якщо консенсус не може бути досягнутий, що не має заперечень, то викликається більшість голосів. Очікується, що більшість рішень, прийнятих комкоммом, застосовуються шляхом консенсусу, який шукає процес, і що голосування використовується лише як остання інстанція.
