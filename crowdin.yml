@@ -1,3 +1,3 @@
 files:
-  - source: /locale/en/about/community.md
-    translation: /locale/A-31/%two_letters_code%/%original_file_name%
+  - source: /locale/en/security.md
+    translation: Fork%two_letters_code%%original_file_name%
