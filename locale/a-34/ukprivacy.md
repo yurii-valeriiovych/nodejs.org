@@ -1,13 +1,13 @@
 ---
-title: Privacy Policy
-layout: about.hbs
+title: Політика конфіденційності
+layout: about.hb
 ---
 
-# Privacy Policy
+# Політика конфіденційності 3
 
-Effective Date: November 21, 2019
+Документ набуває чинності <i>21 листопада 2019 р.</i>
 
-The OpenJS Foundation’s core purpose is to foster an ecosystem that supports the collaborative and public development of free and open source software projects (each, a “Project”).  This privacy policy (“Privacy Policy”) describes our policies and procedures about the collection, use, disclosure and sharing, or other processing of your personal information when you use OpenJS Foundation websites (e.g., openjsf.org) ), or participate in or use our Project sites (collectively, the “Sites”), as well as when you interact with or participate in our events, programs, trainings and our other services and offerings (collectively, the “Services”).
+Основна мета Фонду OpenJS - сприяти екосистемі, яка підтримує спільний та публічний розвиток проектів вільного та відкритого програмного забезпечення (на кожному, "Проект").  Ця політика конфіденційності ("Політика конфіденційності") описує нашу політику і процедури щодо колекції, використання, використання, розкриття та обмін персональних даними, а також їх використання при використанні сайтів OpenJS Foundation (наприклад ., openjsf. rg) або брати участь у наших сайтах проекту (колективно, "Сайти"), а також при взаємодії з вами або брати участь у наших заходах, програми, навчання та наші інші послуги та пропозиції (разом - «Послуги»).
 
 For purposes of the GDPR, the OpenJS Foundation (sometimes referred to by “we” or “our” below) is the controller of your personal information. Where processing of personal information is undertaken on our behalf by The Linux Foundation, they are a joint controller with the OpenJS Foundation for your personal information
 
